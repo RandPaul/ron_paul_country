@@ -2,8 +2,8 @@
 
 This is the first version of the Ron Paul Country application using RoR.
 
-Credits:
+~ Dedicated to all Ron Paul Revolutionaries ~
 
-Orenbus
-D.A.S.
+Credits: Orenbus, D.A.S.
+
 
